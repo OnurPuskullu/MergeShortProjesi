@@ -1,2 +1,3 @@
 # MergeShortProjesi
-Merge Short Projes,i
+Merge Short Projesi
+
